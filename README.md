@@ -1,0 +1,1 @@
+This cleaned up the mess that is SnapChat search warrant results and made one clean XLSX, however SnapChat likes to constantly change the results they provide. This script has not been updated.  Try RLEAPP instead. https://github.com/abrignoni/RLEAPP
